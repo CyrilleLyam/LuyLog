@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Drizzle Studio cache (if it ever exists)
+.drizzle/
+
+# VSCode
+.vscode/
+
